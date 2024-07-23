@@ -1,0 +1,31 @@
+*{
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: grey;
+    }
+
+    h1{
+        color: red;
+        text-align: center;
+    }
+    div{
+        background-color: black;
+        margin: 5px;
+        border: solid white 3px;
+        padding: 5px;
+    }
+    #cru{
+        color: blue;
+    }
+    #papao{
+        color: aqua;
+    }
+    #lusa{
+        color: rgb(0, 196, 0);
+    }
+    img{
+        height: 100px;
+        width: auto;
+    }
+
+}
